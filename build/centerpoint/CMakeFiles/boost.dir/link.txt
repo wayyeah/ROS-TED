@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/nvidia/way/catkin_ws_ted/devel/lib/libboost.a  CMakeFiles/boost.dir/boost_dummy.c.o
+/usr/bin/ranlib /home/nvidia/way/catkin_ws_ted/devel/lib/libboost.a
